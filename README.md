@@ -1,0 +1,2 @@
+# resistance
+igra Resistance
