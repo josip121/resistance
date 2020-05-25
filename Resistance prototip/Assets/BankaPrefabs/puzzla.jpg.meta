@@ -1,0 +1,349 @@
+fileFormatVersion: 2
+guid: f606dd0dd74aabe488590491ae145d1d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5304420227365759078
+    second: puzzla_0
+  - first:
+      213: 1014055999471277618
+    second: puzzla_1
+  - first:
+      213: 2357105337913936276
+    second: puzzla_2
+  - first:
+      213: -5478685584503897172
+    second: puzzla_3
+  - first:
+      213: 7503778994751742981
+    second: puzzla_4
+  - first:
+      213: 4395622239304624936
+    second: puzzla_5
+  - first:
+      213: 5778443905064334793
+    second: puzzla_6
+  - first:
+      213: -7317073461445556806
+    second: puzzla_7
+  - first:
+      213: 6599004655980804195
+    second: puzzla_8
+  - first:
+      213: 8396234219640674261
+    second: puzzla_9
+  - first:
+      213: 2834954171421963039
+    second: puzzla_10
+  - first:
+      213: 4494907652600746559
+    second: puzzla_11
+  - first:
+      213: 1424197914507759099
+    second: puzzla_12
+  - first:
+      213: 8276275780697797719
+    second: puzzla_13
+  - first:
+      213: -3753830688287923904
+    second: puzzla_14
+  - first:
+      213: 9035753726736636161
+    second: puzzla_15
+  - first:
+      213: -8363344656636938781
+    second: puzzla_16
+  - first:
+      213: -7507477597476201438
+    second: puzzla_17
+  - first:
+      213: -2719239839352585608
+    second: puzzla_18
+  - first:
+      213: 3614063674918232646
+    second: puzzla_19
+  - first:
+      213: 5240777593708448372
+    second: puzzla_20
+  - first:
+      213: -3150768018124723460
+    second: puzzla_21
+  - first:
+      213: -5023125481637746043
+    second: puzzla_22
+  - first:
+      213: -5641287727010129233
+    second: puzzla_23
+  - first:
+      213: -3832658789633020250
+    second: puzzla_24
+  - first:
+      213: 6628661249591966470
+    second: puzzla_25
+  - first:
+      213: 5808796708033046547
+    second: puzzla_26
+  - first:
+      213: -1642736765524526586
+    second: puzzla_27
+  - first:
+      213: -8922050664062491196
+    second: puzzla_28
+  - first:
+      213: -3275620089160517091
+    second: puzzla_29
+  - first:
+      213: 6044054806322432204
+    second: puzzla_0
+  - first:
+      213: -582137029331800822
+    second: puzzla_1
+  - first:
+      213: -1396825687661201578
+    second: puzzla_2
+  - first:
+      213: -994623490104373604
+    second: puzzla_3
+  - first:
+      213: -8538629242225165631
+    second: puzzla_4
+  - first:
+      213: -2775975189271358543
+    second: puzzla_5
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: puzzla_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 416
+        width: 400
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc847d5d2dbc0e350800000000000000
+      internalID: 6044054806322432204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzzla_1
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 416
+        width: 400
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0da314c475dbe7f0800000000000000
+      internalID: -582137029331800822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzzla_2
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 416
+        width: 400
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499898cf0de16b020800000000000000
+      internalID: 2357105337913936276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzzla_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 56
+        width: 400
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3879bfc7cc7f3b0800000000000000
+      internalID: -5478685584503897172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzzla_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 56
+        width: 400
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504273f2d37c22860800000000000000
+      internalID: 7503778994751742981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzzla_5
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 56
+        width: 400
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b2f8c3323600d30800000000000000
+      internalID: 4395622239304624936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
